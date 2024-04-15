@@ -1,0 +1,27 @@
+body {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://productoresdeazucarhonduras.com/wp-content/uploads/2022/08/1920x1100-16.webp");
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#submit {
+    padding: 10px 20px;
+    color: #0e0d0d;
+    font-size: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: 0.5s;
+    letter-spacing: 2px;
+    border: 1px solid #fbb02d;
+    margin: auto;
+ }
+ 
+#submit:hover {
+    background: #fbb02d;
+    color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #efbb02dc, 0 0 25px;
+ }

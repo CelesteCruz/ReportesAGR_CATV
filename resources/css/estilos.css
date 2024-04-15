@@ -1,0 +1,54 @@
+.navbar-nav a.nav-link {
+    color: black;
+    transition: color 0.3s ease, border 0.3s ease;
+    border-bottom: 2px solid transparent; 
+    font-size: 12px;
+}
+
+.navbar-nav a.nav-link:hover,
+.navbar-nav a.nav-link:focus,
+.navbar-nav a.nav-link:active {
+    color: black !important;
+    border-bottom: 2px solid white; 
+}
+
+body { 
+    
+    /* background-size: cover;background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://productoresdeazucarhonduras.com/wp-content/uploads/2022/08/1920x1100-16.webp"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.a{
+    color: black;
+}
+
+.container {
+    
+    color: rgb(255, 255, 255); 
+}
+
+.modal-body{
+    color:black;
+}
+
+.modal-header{
+    color:black;
+}
+
+.input-group{
+    border-color: white;
+}
+
+p .small, .text-muted{
+    color: white;
+}
+
+.pag{
+    background-color: #fbac23;
+}
+
+.t{
+    border-radius: 5px;
+}
